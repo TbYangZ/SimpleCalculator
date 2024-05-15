@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/main.cpp.o -c /home/logic/workspace/interesting/calculator/main.cpp",
+  "file": "/home/logic/workspace/interesting/calculator/main.cpp",
+  "output": "CMakeFiles/calc.dir/main.cpp.o"
+},
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/src/scanner.cc.o -c /home/logic/workspace/interesting/calculator/src/scanner.cc",
+  "file": "/home/logic/workspace/interesting/calculator/src/scanner.cc",
+  "output": "CMakeFiles/calc.dir/src/scanner.cc.o"
+},
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/src/parser.cc.o -c /home/logic/workspace/interesting/calculator/src/parser.cc",
+  "file": "/home/logic/workspace/interesting/calculator/src/parser.cc",
+  "output": "CMakeFiles/calc.dir/src/parser.cc.o"
+},
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/src/state.cc.o -c /home/logic/workspace/interesting/calculator/src/state.cc",
+  "file": "/home/logic/workspace/interesting/calculator/src/state.cc",
+  "output": "CMakeFiles/calc.dir/src/state.cc.o"
+},
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/src/calc.cc.o -c /home/logic/workspace/interesting/calculator/src/calc.cc",
+  "file": "/home/logic/workspace/interesting/calculator/src/calc.cc",
+  "output": "CMakeFiles/calc.dir/src/calc.cc.o"
+},
+{
+  "directory": "/home/logic/workspace/interesting/calculator/build",
+  "command": "/usr/bin/g++-14  -I/home/logic/workspace/interesting/calculator/include -g -std=gnu++23 -o CMakeFiles/calc.dir/src/functions.cc.o -c /home/logic/workspace/interesting/calculator/src/functions.cc",
+  "file": "/home/logic/workspace/interesting/calculator/src/functions.cc",
+  "output": "CMakeFiles/calc.dir/src/functions.cc.o"
+}
+]
