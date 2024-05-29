@@ -1,3 +1,0 @@
-/home/logic/workspace/interesting/calculator/build/CMakeFiles/calc.dir
-/home/logic/workspace/interesting/calculator/build/CMakeFiles/edit_cache.dir
-/home/logic/workspace/interesting/calculator/build/CMakeFiles/rebuild_cache.dir
